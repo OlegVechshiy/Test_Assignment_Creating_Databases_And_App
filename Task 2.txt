@@ -1,0 +1,35 @@
+2.1. Запрос
+
+SELECT 
+    b.book_name AS Наименование_книги, 
+    a.author_name  AS ФИО_автора, 
+    b.publish_date  AS Дата_выхода_книги 
+FROM 
+    Book b INNER JOIN 
+    Author a ON b.author_id = a.author_id;
+
+
+2.2. Таблица Book
+
+book_id - первичный ключ, author_id - внешний ключ.
+
+
+2.3. Запрос
+
+SELECT 
+    b.book_name AS Наименование_книги, 
+    r.reader_name AS ФИО_читателя, 
+    e.date_event AS Дата_выдачи 
+FROM 
+    Event e 
+INNER JOIN 
+    Book b ON e.book_id = b.book_id 
+INNER JOIN
+    Reader r ON e.reader_id = r.reader_id 
+WHERE 
+    e.typ_event = 0 
+    AND b.author_id = (SELECT author_id FROM Author WHERE author_name = 'Иванов И.И.') 
+    AND e.date_event BETWEEN '2022-01-12' AND '2022-02-12' 
+ORDER BY 
+    r.reader_name, 
+    e.date_event DESC;

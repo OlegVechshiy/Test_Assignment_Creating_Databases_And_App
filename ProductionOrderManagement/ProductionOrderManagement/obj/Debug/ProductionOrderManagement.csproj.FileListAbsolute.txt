@@ -1,0 +1,14 @@
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\bin\Debug\ProductionOrderManagement.exe.config
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\bin\Debug\ProductionOrderManagement.exe
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\bin\Debug\ProductionOrderManagement.pdb
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.csproj.AssemblyReference.cache
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.frmAdd_Update_OrderHeader.resources
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.frmAdd_Update_OrderPosition.resources
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.frmMainMenu.resources
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.frmOrderHeader.resources
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.frmOrderPosition.resources
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.Properties.Resources.resources
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.csproj.GenerateResource.cache
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.csproj.CoreCompileInputs.cache
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.exe
+D:\Новокрещенов Важное\Новокрещенов личное\Работа\ТЗ\ProductionOrderManagement\ProductionOrderManagement\obj\Debug\ProductionOrderManagement.pdb
